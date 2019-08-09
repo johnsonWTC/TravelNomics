@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "744193453502",
+    "firebase_url": "https://travelmantics-7d88e.firebaseio.com",
+    "project_id": "travelmantics-7d88e",
+    "storage_bucket": "travelmantics-7d88e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744193453502:android:b4470d06b32c6715",
+        "android_client_info": {
+          "package_name": "com.example.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744193453502-a1acdqh95qblssmi96gd6m7ia3n4lguo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelmantics",
+            "certificate_hash": "2d4e20e5bc111264ee571c442e31d55f7bf51188"
+          }
+        },
+        {
+          "client_id": "744193453502-hr1idt4q28ge380mkdrvkumjrf4177uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDglDZ79c38eZPxzld3NKSLQc2DVDauEoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744193453502-hr1idt4q28ge380mkdrvkumjrf4177uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744193453502:android:a3ac22cf88a59ac4",
+        "android_client_info": {
+          "package_name": "com.lollykrown.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744193453502-n37ep7k986l38r2t7vpjeoq135596mi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lollykrown.travelmantics",
+            "certificate_hash": "2d4e20e5bc111264ee571c442e31d55f7bf51188"
+          }
+        },
+        {
+          "client_id": "744193453502-hr1idt4q28ge380mkdrvkumjrf4177uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDglDZ79c38eZPxzld3NKSLQc2DVDauEoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744193453502-hr1idt4q28ge380mkdrvkumjrf4177uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
